@@ -16,7 +16,7 @@ let neueHaasFont; // Variable to hold the new custom font (NeueHaasDisplayRoman.
 let marquee1X = 0;
 let marquee2X;
 const MARQUEE_SPEED = 1.5; // Adjust speed as needed
-let marqueeTextSize = 20; // Shared size for marquee text
+let marqueeTextSize = 40; // Shared size for marquee text
 let TextSize = 20; // Size for "Touch me, please..."
 const MARQUEE_TEXT_TOP_PADDING = 20; // Distance from top edge
 const MARQUEE_TEXT_BOTTOM_PADDING = 20; // Distance from bottom edge
